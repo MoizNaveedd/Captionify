@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.theme-bg-color{
+  box-shadow: 0px 2px 3px 0px #474BFF13;
+  background: #FFFFFF;
+}
